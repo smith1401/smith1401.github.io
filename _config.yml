@@ -63,7 +63,7 @@ plugins:
 author:
   name          : "Christoph Schmied"
   avatar        : "/assets/images/bio-photo.jpg"
-  bio           : "My awesome biography constrained to a sentence or two goes here."
+  bio           : "Robotics researcher focusing on SLAM, pushing boundaries and developing innovative solutions."
   location      : "Graz, Austria"
   employer      : "Graz University of Technology"
   email         : "christoph_schmied@me.com"
